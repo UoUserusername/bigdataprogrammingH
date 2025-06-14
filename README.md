@@ -39,7 +39,7 @@
 
 ## 📁 데이터셋 구성 및 경로 안내
 
-프로젝트에서 사용된 데이터셋은 Google Drive 경로 `/content/drive/MyDrive/travel/` 하위에 저장되어 있으며, 총 5개의 CSV 파일로 구성됩니다:
+프로젝트에서 사용된 데이터셋은 TL_CSV에 있는 총 5개의 CSV 파일로 구성됩니다:
 | 파일명                                              | 설명                                 |
 |-----------------------------------------------------|--------------------------------------|
 | `tn_traveller_master_여행객 Master_G.csv`           | 여행객의 기본 정보                   |
@@ -48,6 +48,7 @@
 | `tn_travel_여행_G.csv`                              | 여행 일정 및 이동 정보              |
 | `tn_activity_consume_his_활동소비내역_G.csv`        | 활동 중 발생한 소비 내역            |
 
+실행할 때 이 파일들이 Google Drive 경로 `/content/drive/MyDrive/travel/` 하위에 저장되어 있습니다.
 ---
 ## 🗂️ 사용 데이터
 
