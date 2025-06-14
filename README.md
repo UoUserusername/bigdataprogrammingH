@@ -49,6 +49,7 @@
 | `tn_activity_consume_his_활동소비내역_G.csv`        | 활동 중 발생한 소비 내역            |
 
 실행할 때 이 파일들이 Google Drive 경로 `/content/drive/MyDrive/travel/` 하위에 저장되어 있습니다.
+
 ---
 ## 🗂️ 사용 데이터
 
